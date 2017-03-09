@@ -2,7 +2,7 @@
 
 A machine connected to PC that can restore cube automatically. 
 
-![IMG20151106214043](F:\Git\Cube-Solver\IMG20151106214043.jpg)
+![IMG20151106214043](IMG20151106214043.jpg)
 
 Participated in school competition and won the first prize.
 
